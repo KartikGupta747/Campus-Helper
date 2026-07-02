@@ -1,0 +1,2034 @@
+[
+  {
+    "branch": "Aerospace Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "3830",
+    "close": "4872"
+  },
+  {
+    "branch": "Aerospace Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "10128",
+    "close": "12034"
+  },
+  {
+    "branch": "Aerospace Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN (PwD)",
+    "gender": "Neutral",
+    "open": "143P",
+    "close": "143P"
+  },
+  {
+    "branch": "Aerospace Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "784",
+    "close": "951"
+  },
+  {
+    "branch": "Aerospace Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "1802",
+    "close": "1802"
+  },
+  {
+    "branch": "Aerospace Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "1818",
+    "close": "2264"
+  },
+  {
+    "branch": "Aerospace Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "4002",
+    "close": "4993"
+  },
+  {
+    "branch": "Aerospace Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "153",
+    "close": "1225"
+  },
+  {
+    "branch": "Aerospace Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "2074",
+    "close": "2146"
+  },
+  {
+    "branch": "Aerospace Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "484",
+    "close": "593"
+  },
+  {
+    "branch": "Aerospace Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "1112",
+    "close": "1112"
+  },
+  {
+    "branch": "Agricultural and Food Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "6545",
+    "close": "11111"
+  },
+  {
+    "branch": "Agricultural and Food Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "17306",
+    "close": "19074"
+  },
+  {
+    "branch": "Agricultural and Food Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "1593",
+    "close": "1768"
+  },
+  {
+    "branch": "Agricultural and Food Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "3224",
+    "close": "3419"
+  },
+  {
+    "branch": "Agricultural and Food Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "3070",
+    "close": "4752"
+  },
+  {
+    "branch": "Agricultural and Food Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "7011",
+    "close": "8479"
+  },
+  {
+    "branch": "Agricultural and Food Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "2039",
+    "close": "2682"
+  },
+  {
+    "branch": "Agricultural and Food Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "2957",
+    "close": "3714"
+  },
+  {
+    "branch": "Agricultural and Food Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "1118",
+    "close": "1281"
+  },
+  {
+    "branch": "Agricultural and Food Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "1752",
+    "close": "1752"
+  },
+  {
+    "branch": "Applied Geology",
+    "degree": "B.S. (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "11734",
+    "close": "13685"
+  },
+  {
+    "branch": "Applied Geology",
+    "degree": "B.S. (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "20949",
+    "close": "21618"
+  },
+  {
+    "branch": "Applied Geology",
+    "degree": "B.S. (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "2194",
+    "close": "2307"
+  },
+  {
+    "branch": "Applied Geology",
+    "degree": "B.S. (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "3934",
+    "close": "3934"
+  },
+  {
+    "branch": "Applied Geology",
+    "degree": "B.S. (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "3570",
+    "close": "5621"
+  },
+  {
+    "branch": "Applied Geology",
+    "degree": "B.S. (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "9334",
+    "close": "10019"
+  },
+  {
+    "branch": "Applied Geology",
+    "degree": "B.S. (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "2756",
+    "close": "3316"
+  },
+  {
+    "branch": "Applied Geology",
+    "degree": "B.S. (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "4072",
+    "close": "4255"
+  },
+  {
+    "branch": "Applied Geology",
+    "degree": "B.S. (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "1390",
+    "close": "1473"
+  },
+  {
+    "branch": "Applied Geology",
+    "degree": "B.S. (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "2103",
+    "close": "2103"
+  },
+  {
+    "branch": "Architecture",
+    "degree": "B.Arch (5 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "9970",
+    "close": "19141"
+  },
+  {
+    "branch": "Architecture",
+    "degree": "B.Arch (5 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "19716",
+    "close": "24124"
+  },
+  {
+    "branch": "Architecture",
+    "degree": "B.Arch (5 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "2807",
+    "close": "2821"
+  },
+  {
+    "branch": "Architecture",
+    "degree": "B.Arch (5 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "4587",
+    "close": "4587"
+  },
+  {
+    "branch": "Architecture",
+    "degree": "B.Arch (5 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "5668",
+    "close": "6770"
+  },
+  {
+    "branch": "Architecture",
+    "degree": "B.Arch (5 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "3006",
+    "close": "3376"
+  },
+  {
+    "branch": "Architecture",
+    "degree": "B.Arch (5 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "4112",
+    "close": "4112"
+  },
+  {
+    "branch": "Architecture",
+    "degree": "B.Arch (5 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "1625",
+    "close": "1736"
+  },
+  {
+    "branch": "Architecture",
+    "degree": "B.Arch (5 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "1830",
+    "close": "1830"
+  },
+  {
+    "branch": "Artificial Intelligence",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "461",
+    "close": "953"
+  },
+  {
+    "branch": "Artificial Intelligence",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "2901",
+    "close": "3194"
+  },
+  {
+    "branch": "Artificial Intelligence",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN (PwD)",
+    "gender": "Female",
+    "open": "117",
+    "close": "117"
+  },
+  {
+    "branch": "Artificial Intelligence",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "104",
+    "close": "143"
+  },
+  {
+    "branch": "Artificial Intelligence",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "342",
+    "close": "342"
+  },
+  {
+    "branch": "Artificial Intelligence",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "218",
+    "close": "381"
+  },
+  {
+    "branch": "Artificial Intelligence",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "1056",
+    "close": "1146"
+  },
+  {
+    "branch": "Artificial Intelligence",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL (PwD)",
+    "gender": "Neutral",
+    "open": "40",
+    "close": "40"
+  },
+  {
+    "branch": "Artificial Intelligence",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "144",
+    "close": "268"
+  },
+  {
+    "branch": "Artificial Intelligence",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "463",
+    "close": "659"
+  },
+  {
+    "branch": "Artificial Intelligence",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "66",
+    "close": "90"
+  },
+  {
+    "branch": "Artificial Intelligence",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "144",
+    "close": "144"
+  },
+  {
+    "branch": "Biotechnology and Biochemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "6774",
+    "close": "9224"
+  },
+  {
+    "branch": "Biotechnology and Biochemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "7274",
+    "close": "14841"
+  },
+  {
+    "branch": "Biotechnology and Biochemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN (PwD)",
+    "gender": "Neutral",
+    "open": "205P",
+    "close": "205P"
+  },
+  {
+    "branch": "Biotechnology and Biochemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "1357",
+    "close": "1464"
+  },
+  {
+    "branch": "Biotechnology and Biochemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "2580",
+    "close": "2580"
+  },
+  {
+    "branch": "Biotechnology and Biochemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "3286",
+    "close": "3746"
+  },
+  {
+    "branch": "Biotechnology and Biochemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "6803",
+    "close": "7510"
+  },
+  {
+    "branch": "Biotechnology and Biochemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "1715",
+    "close": "2287"
+  },
+  {
+    "branch": "Biotechnology and Biochemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "3063",
+    "close": "3218"
+  },
+  {
+    "branch": "Biotechnology and Biochemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "812",
+    "close": "1275"
+  },
+  {
+    "branch": "Biotechnology and Biochemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "1729",
+    "close": "1729"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "4379",
+    "close": "5222"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "7574",
+    "close": "11358"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN (PwD)",
+    "gender": "Neutral",
+    "open": "174P",
+    "close": "223P"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "814",
+    "close": "963"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "1736",
+    "close": "1930"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "1906",
+    "close": "2325"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "4139",
+    "close": "5343"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "985",
+    "close": "1359"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "1667",
+    "close": "2423"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "625",
+    "close": "721"
+  },
+  {
+    "branch": "Chemical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "1306",
+    "close": "1372"
+  },
+  {
+    "branch": "Chemistry",
+    "degree": "B.S. (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "11214",
+    "close": "12321"
+  },
+  {
+    "branch": "Chemistry",
+    "degree": "B.S. (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "20022",
+    "close": "21532"
+  },
+  {
+    "branch": "Chemistry",
+    "degree": "B.S. (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "1808",
+    "close": "2197"
+  },
+  {
+    "branch": "Chemistry",
+    "degree": "B.S. (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "3820",
+    "close": "3820"
+  },
+  {
+    "branch": "Chemistry",
+    "degree": "B.S. (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "4745",
+    "close": "5584"
+  },
+  {
+    "branch": "Chemistry",
+    "degree": "B.S. (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "8928",
+    "close": "8982"
+  },
+  {
+    "branch": "Chemistry",
+    "degree": "B.S. (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "2804",
+    "close": "3217"
+  },
+  {
+    "branch": "Chemistry",
+    "degree": "B.S. (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "3576",
+    "close": "3576"
+  },
+  {
+    "branch": "Chemistry",
+    "degree": "B.S. (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "1394",
+    "close": "1477"
+  },
+  {
+    "branch": "Chemistry",
+    "degree": "B.S. (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "2027",
+    "close": "2027"
+  },
+  {
+    "branch": "Civil Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "6188",
+    "close": "7774"
+  },
+  {
+    "branch": "Civil Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "13875",
+    "close": "15272"
+  },
+  {
+    "branch": "Civil Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN (PwD)",
+    "gender": "Neutral",
+    "open": "244P",
+    "close": "244P"
+  },
+  {
+    "branch": "Civil Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "1017",
+    "close": "1243"
+  },
+  {
+    "branch": "Civil Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "2137",
+    "close": "2375"
+  },
+  {
+    "branch": "Civil Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "2456",
+    "close": "3042"
+  },
+  {
+    "branch": "Civil Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "4969",
+    "close": "6283"
+  },
+  {
+    "branch": "Civil Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "1233",
+    "close": "1768"
+  },
+  {
+    "branch": "Civil Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "2379",
+    "close": "2669"
+  },
+  {
+    "branch": "Civil Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "503",
+    "close": "583"
+  },
+  {
+    "branch": "Civil Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "727",
+    "close": "781"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "238",
+    "close": "466"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "1202",
+    "close": "1908"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN (PwD)",
+    "gender": "Neutral",
+    "open": "18",
+    "close": "22"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN (PwD)",
+    "gender": "Female",
+    "open": "70",
+    "close": "70"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "45",
+    "close": "78"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "224",
+    "close": "236"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS (PwD)",
+    "gender": "Neutral",
+    "open": "7",
+    "close": "8"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "94",
+    "close": "212"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "583",
+    "close": "842"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL (PwD)",
+    "gender": "Neutral",
+    "open": "21",
+    "close": "21"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "46",
+    "close": "108"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "316",
+    "close": "404"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC (PwD)",
+    "gender": "Neutral",
+    "open": "6",
+    "close": "8"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "43",
+    "close": "68"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "94",
+    "close": "138"
+  },
+  {
+    "branch": "Computer Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST (PwD)",
+    "gender": "Neutral",
+    "open": "4",
+    "close": "4"
+  },
+  {
+    "branch": "Economics",
+    "degree": "B.S. (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "3681",
+    "close": "6063"
+  },
+  {
+    "branch": "Economics",
+    "degree": "B.S. (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "10113",
+    "close": "12877"
+  },
+  {
+    "branch": "Economics",
+    "degree": "B.S. (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "774",
+    "close": "1144"
+  },
+  {
+    "branch": "Economics",
+    "degree": "B.S. (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "2143",
+    "close": "2143"
+  },
+  {
+    "branch": "Economics",
+    "degree": "B.S. (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "2200",
+    "close": "2677"
+  },
+  {
+    "branch": "Economics",
+    "degree": "B.S. (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "5844",
+    "close": "6381"
+  },
+  {
+    "branch": "Economics",
+    "degree": "B.S. (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "1424",
+    "close": "1877"
+  },
+  {
+    "branch": "Economics",
+    "degree": "B.S. (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "3000",
+    "close": "3247"
+  },
+  {
+    "branch": "Economics",
+    "degree": "B.S. (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "835",
+    "close": "1006"
+  },
+  {
+    "branch": "Economics",
+    "degree": "B.S. (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "1539",
+    "close": "1539"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "1492",
+    "close": "1985"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "4721",
+    "close": "5393"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN (PwD)",
+    "gender": "Neutral",
+    "open": "138",
+    "close": "159"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "230",
+    "close": "333"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "644",
+    "close": "694"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS (PwD)",
+    "gender": "Neutral",
+    "open": "21P",
+    "close": "21P"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "700",
+    "close": "884"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "2267",
+    "close": "2711"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL (PwD)",
+    "gender": "Neutral",
+    "open": "75",
+    "close": "75"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "327",
+    "close": "560"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "1290",
+    "close": "1412"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "194",
+    "close": "246"
+  },
+  {
+    "branch": "Electrical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "624",
+    "close": "643"
+  },
+  {
+    "branch": "Electronics and Electrical Communication Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "419",
+    "close": "1485"
+  },
+  {
+    "branch": "Electronics and Electrical Communication Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "3229",
+    "close": "4734"
+  },
+  {
+    "branch": "Electronics and Electrical Communication Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN (PwD)",
+    "gender": "Neutral",
+    "open": "55",
+    "close": "64"
+  },
+  {
+    "branch": "Electronics and Electrical Communication Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN (PwD)",
+    "gender": "Female",
+    "open": "123",
+    "close": "123"
+  },
+  {
+    "branch": "Electronics and Electrical Communication Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "132",
+    "close": "263"
+  },
+  {
+    "branch": "Electronics and Electrical Communication Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "504",
+    "close": "541"
+  },
+  {
+    "branch": "Electronics and Electrical Communication Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS (PwD)",
+    "gender": "Neutral",
+    "open": "4P",
+    "close": "4P"
+  },
+  {
+    "branch": "Electronics and Electrical Communication Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "415",
+    "close": "646"
+  },
+  {
+    "branch": "Electronics and Electrical Communication Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "1467",
+    "close": "1798"
+  },
+  {
+    "branch": "Electronics and Electrical Communication Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL (PwD)",
+    "gender": "Neutral",
+    "open": "44",
+    "close": "56"
+  },
+  {
+    "branch": "Electronics and Electrical Communication Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "100",
+    "close": "393"
+  },
+  {
+    "branch": "Electronics and Electrical Communication Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "299",
+    "close": "892"
+  },
+  {
+    "branch": "Electronics and Electrical Communication Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "61",
+    "close": "192"
+  },
+  {
+    "branch": "Electronics and Electrical Communication Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "346",
+    "close": "392"
+  },
+  {
+    "branch": "Exploration Geophysics",
+    "degree": "B.S. (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "11359",
+    "close": "12443"
+  },
+  {
+    "branch": "Exploration Geophysics",
+    "degree": "B.S. (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "19766",
+    "close": "20854"
+  },
+  {
+    "branch": "Exploration Geophysics",
+    "degree": "B.S. (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "2006",
+    "close": "2240"
+  },
+  {
+    "branch": "Exploration Geophysics",
+    "degree": "B.S. (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "3723",
+    "close": "3723"
+  },
+  {
+    "branch": "Exploration Geophysics",
+    "degree": "B.S. (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "4503",
+    "close": "5210"
+  },
+  {
+    "branch": "Exploration Geophysics",
+    "degree": "B.S. (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "8732",
+    "close": "9204"
+  },
+  {
+    "branch": "Exploration Geophysics",
+    "degree": "B.S. (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "2772",
+    "close": "2932"
+  },
+  {
+    "branch": "Exploration Geophysics",
+    "degree": "B.S. (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "4234",
+    "close": "4234"
+  },
+  {
+    "branch": "Exploration Geophysics",
+    "degree": "B.S. (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "1276",
+    "close": "1453"
+  },
+  {
+    "branch": "Exploration Geophysics",
+    "degree": "B.S. (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "2040",
+    "close": "2040"
+  },
+  {
+    "branch": "Industrial and Systems Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "2873",
+    "close": "4329"
+  },
+  {
+    "branch": "Industrial and Systems Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "9189",
+    "close": "10288"
+  },
+  {
+    "branch": "Industrial and Systems Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "618",
+    "close": "865"
+  },
+  {
+    "branch": "Industrial and Systems Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "1505",
+    "close": "1505"
+  },
+  {
+    "branch": "Industrial and Systems Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "1185",
+    "close": "2086"
+  },
+  {
+    "branch": "Industrial and Systems Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "3805",
+    "close": "6079"
+  },
+  {
+    "branch": "Industrial and Systems Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "1004",
+    "close": "1354"
+  },
+  {
+    "branch": "Industrial and Systems Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "2622",
+    "close": "2731"
+  },
+  {
+    "branch": "Industrial and Systems Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "738",
+    "close": "882"
+  },
+  {
+    "branch": "Industrial and Systems Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "1333",
+    "close": "1333"
+  },
+  {
+    "branch": "Instrumentation Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "2077",
+    "close": "2741"
+  },
+  {
+    "branch": "Instrumentation Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "6076",
+    "close": "7896"
+  },
+  {
+    "branch": "Instrumentation Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN (PwD)",
+    "gender": "Neutral",
+    "open": "156",
+    "close": "156"
+  },
+  {
+    "branch": "Instrumentation Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "379",
+    "close": "463"
+  },
+  {
+    "branch": "Instrumentation Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "1400",
+    "close": "1400"
+  },
+  {
+    "branch": "Instrumentation Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "890",
+    "close": "1227"
+  },
+  {
+    "branch": "Instrumentation Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "3342",
+    "close": "3619"
+  },
+  {
+    "branch": "Instrumentation Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "773",
+    "close": "943"
+  },
+  {
+    "branch": "Instrumentation Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "2326",
+    "close": "2326"
+  },
+  {
+    "branch": "Instrumentation Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "774",
+    "close": "787"
+  },
+  {
+    "branch": "Instrumentation Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "1007",
+    "close": "1007"
+  },
+  {
+    "branch": "Manufacturing Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "5124",
+    "close": "6547"
+  },
+  {
+    "branch": "Manufacturing Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "12718",
+    "close": "14070"
+  },
+  {
+    "branch": "Manufacturing Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "1053",
+    "close": "1267"
+  },
+  {
+    "branch": "Manufacturing Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "2743",
+    "close": "2743"
+  },
+  {
+    "branch": "Manufacturing Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "2449",
+    "close": "3176"
+  },
+  {
+    "branch": "Manufacturing Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "5331",
+    "close": "6353"
+  },
+  {
+    "branch": "Manufacturing Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "1431",
+    "close": "1994"
+  },
+  {
+    "branch": "Manufacturing Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "2826",
+    "close": "3312"
+  },
+  {
+    "branch": "Manufacturing Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "850",
+    "close": "1143"
+  },
+  {
+    "branch": "Manufacturing Science and Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "1589",
+    "close": "1589"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "degree": "B.S. (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "519",
+    "close": "1336"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "degree": "B.S. (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "3754",
+    "close": "4563"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "degree": "B.S. (4 Years)",
+    "category": "OPEN (PwD)",
+    "gender": "Neutral",
+    "open": "47",
+    "close": "47"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "degree": "B.S. (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "177",
+    "close": "270"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "degree": "B.S. (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "559",
+    "close": "559"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "degree": "B.S. (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "523",
+    "close": "751"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "degree": "B.S. (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "1968",
+    "close": "2575"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "degree": "B.S. (4 Years)",
+    "category": "OBC-NCL (PwD)",
+    "gender": "Neutral",
+    "open": "80P",
+    "close": "80P"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "degree": "B.S. (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "416",
+    "close": "565"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "degree": "B.S. (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "965",
+    "close": "1136"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "degree": "B.S. (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "252",
+    "close": "342"
+  },
+  {
+    "branch": "Mathematics and Computing",
+    "degree": "B.S. (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "602",
+    "close": "602"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "2773",
+    "close": "4016"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "7605",
+    "close": "10333"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN (PwD)",
+    "gender": "Neutral",
+    "open": "195",
+    "close": "238"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "513",
+    "close": "681"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "1412",
+    "close": "1617"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS (PwD)",
+    "gender": "Neutral",
+    "open": "36P",
+    "close": "36P"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "1040",
+    "close": "1700"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "3627",
+    "close": "4820"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "294",
+    "close": "1054"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "1670",
+    "close": "2083"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "354",
+    "close": "544"
+  },
+  {
+    "branch": "Mechanical Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "1153",
+    "close": "1218"
+  },
+  {
+    "branch": "Metallurgical and Materials Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "5552",
+    "close": "7708"
+  },
+  {
+    "branch": "Metallurgical and Materials Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "13680",
+    "close": "15297"
+  },
+  {
+    "branch": "Metallurgical and Materials Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN (PwD)",
+    "gender": "Neutral",
+    "open": "280P",
+    "close": "280P"
+  },
+  {
+    "branch": "Metallurgical and Materials Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "1285",
+    "close": "1371"
+  },
+  {
+    "branch": "Metallurgical and Materials Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "2511",
+    "close": "2553"
+  },
+  {
+    "branch": "Metallurgical and Materials Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "2389",
+    "close": "3389"
+  },
+  {
+    "branch": "Metallurgical and Materials Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "6558",
+    "close": "6973"
+  },
+  {
+    "branch": "Metallurgical and Materials Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "1651",
+    "close": "2097"
+  },
+  {
+    "branch": "Metallurgical and Materials Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "2973",
+    "close": "3343"
+  },
+  {
+    "branch": "Metallurgical and Materials Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "868",
+    "close": "960"
+  },
+  {
+    "branch": "Metallurgical and Materials Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "1423",
+    "close": "1423"
+  },
+  {
+    "branch": "Mining Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "7833",
+    "close": "10765"
+  },
+  {
+    "branch": "Mining Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "17757",
+    "close": "20249"
+  },
+  {
+    "branch": "Mining Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "1473",
+    "close": "1647"
+  },
+  {
+    "branch": "Mining Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "3177",
+    "close": "3181"
+  },
+  {
+    "branch": "Mining Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "3182",
+    "close": "4043"
+  },
+  {
+    "branch": "Mining Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "7623",
+    "close": "8146"
+  },
+  {
+    "branch": "Mining Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "2061",
+    "close": "2505"
+  },
+  {
+    "branch": "Mining Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "3483",
+    "close": "3745"
+  },
+  {
+    "branch": "Mining Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "886",
+    "close": "1170"
+  },
+  {
+    "branch": "Mining Engineering",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "1219",
+    "close": "1243"
+  },
+  {
+    "branch": "Ocean Engineering and Naval Architecture",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "7465",
+    "close": "10074"
+  },
+  {
+    "branch": "Ocean Engineering and Naval Architecture",
+    "degree": "B.Tech (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "15779",
+    "close": "17428"
+  },
+  {
+    "branch": "Ocean Engineering and Naval Architecture",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "1477",
+    "close": "1659"
+  },
+  {
+    "branch": "Ocean Engineering and Naval Architecture",
+    "degree": "B.Tech (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "2873",
+    "close": "2886"
+  },
+  {
+    "branch": "Ocean Engineering and Naval Architecture",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "2895",
+    "close": "4206"
+  },
+  {
+    "branch": "Ocean Engineering and Naval Architecture",
+    "degree": "B.Tech (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "7037",
+    "close": "7905"
+  },
+  {
+    "branch": "Ocean Engineering and Naval Architecture",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "1460",
+    "close": "2427"
+  },
+  {
+    "branch": "Ocean Engineering and Naval Architecture",
+    "degree": "B.Tech (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "3357",
+    "close": "3486"
+  },
+  {
+    "branch": "Ocean Engineering and Naval Architecture",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "1124",
+    "close": "1249"
+  },
+  {
+    "branch": "Ocean Engineering and Naval Architecture",
+    "degree": "B.Tech (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "1558",
+    "close": "1558"
+  },
+  {
+    "branch": "Physics",
+    "degree": "B.S. (4 Years)",
+    "category": "OPEN",
+    "gender": "Neutral",
+    "open": "7367",
+    "close": "10939"
+  },
+  {
+    "branch": "Physics",
+    "degree": "B.S. (4 Years)",
+    "category": "OPEN",
+    "gender": "Female",
+    "open": "19589",
+    "close": "20982"
+  },
+  {
+    "branch": "Physics",
+    "degree": "B.S. (4 Years)",
+    "category": "EWS",
+    "gender": "Neutral",
+    "open": "1856",
+    "close": "1966"
+  },
+  {
+    "branch": "Physics",
+    "degree": "B.S. (4 Years)",
+    "category": "EWS",
+    "gender": "Female",
+    "open": "3446",
+    "close": "3446"
+  },
+  {
+    "branch": "Physics",
+    "degree": "B.S. (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Neutral",
+    "open": "3861",
+    "close": "4707"
+  },
+  {
+    "branch": "Physics",
+    "degree": "B.S. (4 Years)",
+    "category": "OBC-NCL",
+    "gender": "Female",
+    "open": "8620",
+    "close": "8640"
+  },
+  {
+    "branch": "Physics",
+    "degree": "B.S. (4 Years)",
+    "category": "SC",
+    "gender": "Neutral",
+    "open": "2110",
+    "close": "2840"
+  },
+  {
+    "branch": "Physics",
+    "degree": "B.S. (4 Years)",
+    "category": "SC",
+    "gender": "Female",
+    "open": "3996",
+    "close": "3996"
+  },
+  {
+    "branch": "Physics",
+    "degree": "B.S. (4 Years)",
+    "category": "ST",
+    "gender": "Neutral",
+    "open": "1396",
+    "close": "1449"
+  },
+  {
+    "branch": "Physics",
+    "degree": "B.S. (4 Years)",
+    "category": "ST",
+    "gender": "Female",
+    "open": "1730",
+    "close": "1730"
+  }
+]
